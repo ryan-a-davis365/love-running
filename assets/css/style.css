@@ -288,9 +288,9 @@ main {
         order: 1;
     }
 
-    #benefits-mental > div [
+    #benefits-mental > div {
         align-self: flex-start;
-    ]
+    }
 
     #benefits-physical > div {
         align-self: flex-end;
